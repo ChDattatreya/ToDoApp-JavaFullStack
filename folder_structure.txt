@@ -1,0 +1,72 @@
+Folder PATH listing for volume Acer
+Volume serial number is 040B-6A18
+C:.
+|   .classpath
+|   .gitattributes
+|   .gitignore
+|   .project
+|   folder_structure.txt
+|   HELP.md
+|   mvnw
+|   mvnw.cmd
+|   pom.xml
+|   
++---.mvn
+|   \---wrapper
+|           maven-wrapper.properties
+|           
++---.settings
+|       org.eclipse.core.resources.prefs
+|       org.eclipse.jdt.core.prefs
+|       org.eclipse.m2e.core.prefs
+|       
++---src
+|   +---main
+|   |   +---java
+|   |   |   \---com
+|   |   |       \---example
+|   |   |           \---todoapp
+|   |   |                   Task.java
+|   |   |                   TaskController.java
+|   |   |                   TaskRepository.java
+|   |   |                   TodoappApplication.java
+|   |   |                   
+|   |   \---resources
+|   |       |   application.properties
+|   |       |   
+|   |       +---static
+|   |       \---templates
+|   \---test
+|       \---java
+|           \---com
+|               \---example
+|                   \---todoapp
+|                           TodoappApplicationTests.java
+|                           
+\---target
+    +---classes
+    |   |   application.properties
+    |   |   
+    |   +---com
+    |   |   \---example
+    |   |       \---todoapp
+    |   |               Task.class
+    |   |               TaskController.class
+    |   |               TaskRepository.class
+    |   |               TodoappApplication.class
+    |   |               
+    |   \---META-INF
+    |       |   MANIFEST.MF
+    |       |   
+    |       \---maven
+    |           \---com.example
+    |               \---todoapp
+    |                       pom.properties
+    |                       pom.xml
+    |                       
+    \---test-classes
+        \---com
+            \---example
+                \---todoapp
+                        TodoappApplicationTests.class
+                        
